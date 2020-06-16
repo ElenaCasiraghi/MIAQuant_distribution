@@ -2,18 +2,18 @@
 MATLAB code for segmenting and analyzing markers
 
 
-Recently we have been using 
-***TMA_MIAQuant_Learn allows cutting subimages from a TMA images thath has been preprocessed in QuPath (it takes the file qptma created by QuPath)
+We are now working on TMA (for european grant) and we are using
+*TMA_MIAQuant_Learn* which allows cutting subimages from a TMA images thath has been preprocessed in QuPath (it takes the file qptma created by QuPath)
 
 
-***Included you find also the code for nuclei segmentation. This code should be re-implemented by using Python for reducing the STRESS computational load
+*Included you find also the code for nuclei segmentation (codiceMatlab20190216_BestPerf). This code should be re-implemented by using Python for reducing the STRESS computational load*
 
-E. Casiraghi, J. Gliozzo, B. R. B. Barricelli, A. Rizzi, B. E. Leone, B. Vergani (2019). ki67 nuclei detection and
+[0] E. Casiraghi, J. Gliozzo, B. R. B. Barricelli, A. Rizzi, B. E. Leone, B. Vergani (2019). ki67 nuclei detection and
 ki67-index estimation: a novel automatic approach based on human vision modeling. BMC BioInformatics,
 20 (733). DOI:10.1186/s12859-019-3285-4.
 
 
-***MIAQuant_Learn has the extended feature of color learning
+*MIAQuant_Learn has the extended feature of color learning*
 
 [1] V. Huber, V. Vallacchi, V. Fleming, X. Hu, A. Cova, M. Dugo, E. Shahaj, R. Sulsenti, E. Vergani, P. Filipazzi,
 A. De Laurentiis, L. Lalli, L. Di Guardo, R. Patuzzo, B. Vergani, E. Casiraghi, M. Cossa, A. Gualeni, V.
@@ -28,7 +28,7 @@ https://doi.org/10.1186/s12859-018-2302-3.
 
 
 
-***Original method: MIAQuant
+*Original method: MIAQuant*
 
 [3] E. Casiraghi, M. Cossa, V. Huber, M. Tozzi, L. Rivoltini, A. Villa, B. Vergani (Nov. 2017). MIAQuant,
 a novel system for automatic segmentation, measurement, and localization comparison of different
